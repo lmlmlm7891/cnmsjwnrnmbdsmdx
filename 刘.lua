@@ -4,7 +4,7 @@ Junkie.identifier = "10880"
 Junkie.provider = "刘某卡密"
 
 -- 直接设置密钥并返回，完全跳过UI
-getgenv().SCRIPT_KEY = "LM-FOREVER-001"
+getgenv().SCRIPT_KEY = "LMKM-41c1c20e-531e-49e2-af99-e464e09a5375"
 return getgenv().SCRIPT_KEY
 
 
