@@ -1,12 +1,4 @@
-local Junkie = loadstring(game:HttpGet("https://jnkie.com/sdk/library.lua"))()
-Junkie.service = "刘刘"
-Junkie.identifier = "10880"
-Junkie.provider = "刘某卡密"
-
--- 直接设置密钥并返回，完全跳过UI
-getgenv().SCRIPT_KEY = "LMKM-41c1c20e-531e-49e2-af99-e464e09a5375"
-return getgenv().SCRIPT_KEY
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lmlmlm7891/cnmsjwnrnmbdsmdx/refs/heads/main/%E5%88%98%E5%8D%A1%E5%AF%86%E6%B7%B7%E6%B7%86.lua"))()
 
 -- This file was protected using Luraph Obfuscator v14.5.2 [https://lura.ph/]
 
